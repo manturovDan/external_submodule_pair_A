@@ -1,0 +1,1 @@
+# external_submodule_pair_A
