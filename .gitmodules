@@ -1,3 +1,6 @@
 [submodule "external_submodule_pair_b"]
 	path = external_submodule_pair_b
 	url = https://gitlab.com/manturovDan/external_submodule_pair_b.git
+[submodule "gha_test_2"]
+	path = gha_test_2
+	url = https://github.com/manturovDan/gha_test_2
